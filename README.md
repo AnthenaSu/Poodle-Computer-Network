@@ -7,7 +7,7 @@ Poodle is a C project that models a computer network as a graph with security-co
 |---|---|
 | `Makefile` | Controls compilation. |
 | `poodle.h` | Provided interface (must not be modified). |
-| `poodle.c` | Your implementation of Tasks 1–4. |
+| `poodle.c` | Implementation of Tasks 1-4. |
 | `Queue.h` / `Queue.c` | Queue ADT used for BFS-style traversals (provided/your support files). |
 | `testPoodle.c` | Provided test driver. |
 | `data/` | Network data files. |
